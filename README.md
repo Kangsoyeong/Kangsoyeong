@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kangsoyeong
 - 👀 I’m interested in Web programming, Python, Java.
-- 🌱 I’m currently learning HTML/CSS & JavaScript.
+- 🌱 I’m currently learning Web Front-end ( HTML/CSS & JavaScript ).
 - 💞️ I’m looking to collaborate on ...
 - 📫 korea020808@naver.com / korea020808@gmail.com
 
